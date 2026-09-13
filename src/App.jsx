@@ -83,6 +83,11 @@ const App = () => {
             </ul>
           )}
         </section>
+        <footer>
+          <p className="text-white mt-[50px]" style={{textAlign: "center"}} >
+            by <a className="text-gradient" href="https://www.linkedin.com/in/parth-chudasama-20032000/">Parth Chudasama</a>
+          </p>
+        </footer>
       </div>
     </main>
   );
